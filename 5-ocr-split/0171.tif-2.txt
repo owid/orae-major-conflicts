@@ -1,0 +1,12 @@
+ii.COUP D'ETAT IN PORTUGAL Mar. 1974 to Apr. 1974
+Region(s)= Europe
+Nation(s)-= PORTUGAL
+Actor(s)- GOVERN . PORTUGAL ARMY FACTION—PORT.
+Conmitter(s)- ARMY FACTION—PORT.
+Location(s)- PORTUGAL
+Mode- Primarily Internal Magnitude- 1 Cambatants- 10000
+Deaths- O Force- Ground Forces
+Issue{s)~ Internal Tension Elite
+Colonial
+Outcome(s)-— Successful Conmitter
+Source(s)- 6

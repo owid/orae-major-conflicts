@@ -1,0 +1,82 @@
+@\ . PROVINCIAL AUTONOMY STRUGGLE 1819 to 1820
+
+gegian(s}- Americas
+
+wtion(s)- ARGENTINA
+
+actor (s)- PROVINCES=ARGENTINA BUENOS AIRES FORCES
+comitter(s)- PROVINCES-ARGENTINA
+
+recation(s)- ARGENTINA
+
+‘4de- Primarily Internal Magnitude- 12 Combatants- 0
+Seaths— 1000 Force— Ground Forces
+
+Issue(s)- Territory-Population
+
+oxcome(s)- Compromise Conmitter
+
+Surce(s)- 3
+CHESELKA EKKEKKEEKRERKAAERAEEEEERREEEEERAREEREEEKRERREERKEEREEKERKKK KKK
+
+(),3RUTISH CONQUEST OF INDIA 1819 to 1849
+Region(s)- Asia
+sation(s)- BRITAIN INDIA
+actor (s)- SIKHS-INDIA PUNJABS—INDIA
+
+Comitter(s)— BRITAIN
+
+Location({s)- INDIA
+
+“ode- Colonial Magnitude- 720 Combatants- 300000
+Deaths- 4000 Force— Ground Forces
+
+tssue(s)- Internal Tension Colonial
+
+outcome(s)- Successful Conmitter
+
+Source(s)=- 1
+SERAEKEAERAEKKEEHAKRERREREREREEERKRRREEKEERERERERERAKKERRUAEREEREEREARKER
+
+= ALEPPO 1819 to 1820
+
+fegion(s)- Mid. East
+
+Yation(s)— TURKEY
+
+Actor (s)= CHURCHID PASHA-TURK.
+
+comitter({s)= | CHURCHID PASHA-TURK.
+
+toration(s)— TURKEY
+
+Mode- Primarily Internal Magnitude- 12 Combatants- 0
+Deaths— 1000 Force- Grourd Forces
+
+Issue(s}= Internal Tension
+
+dutcome(s)- Campramise Cammitter
+
+Source(s)- 3
+THERRKKKAEEAEKAKKEREEREEEREERERREREEEREEEKRKEEEEKEKEREKREKKAEKKKKKK KEKE
+
+=-CADIZ REVOLT AND FRENCH INTERVENTION Jan. 1820 to 1823
+Region(s)— Europe
+Nation(s)— SPAIN FRANCE
+Actor(s)- CARLISTS-SPAIN REPUBLICANS=-SPAIN
+
+Gamitter(s)- | REPUBLICANS-SPAIN
+
+Location(s)- SPAIN
+
+Intervener(s)- FRANCE
+
+Mode- Internal(External Invol.) Magnitude- 62 Cambatants- 150000
+Deaths— 4000 Force- Ground Forces
+
+Issue(s)— Elite Social Economical
+
+Outcame(s)=- Unsuccess. Committer
+
+Source(s)- 1
+

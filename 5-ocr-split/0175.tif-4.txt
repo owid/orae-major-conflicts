@@ -1,0 +1,11 @@
+615.ABORTIVE COUP IN NIGERTA Apr. 1976 to Apr. 1976
+Region(s)=- Africa
+Nation(s)}- NIGERIA
+Actor(s)- ARMY FACTION-NIGERIA
+Committer(s)- ARMY FACTION-NIGERIA
+Location(s)- NIGERIA
+Mode~ Primarily Internal Magnitude- 1 Combatants- 0
+Deaths-— O Force- Ground Forces
+Issue(s)= Elite
+Outcome(s)= Unsuccess. Caommitter
+Source(s)= 9

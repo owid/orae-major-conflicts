@@ -1,0 +1,11 @@
+77,.BORDER TENSIONS 1950 to 1962
+Region(s)~ Asia
+Nation(s)—- AFGHANISTAN PAKISTAN
+Actor(s)— PATHANS—PAKISTAN
+Committer(s)— AFGHANISTAN
+Location(s)- AFGHANISTAN PAKISTAN
+Mode- Conventional Interstate Magnitude- 288 Combatants- 0
+Deaths OQ Force=- Ground Forces
+Issue(s)- Territory~Population
+Outcome(s)-— Campromise Committer
+Source(s)— 5

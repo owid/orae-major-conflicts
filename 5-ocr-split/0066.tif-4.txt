@@ -1,0 +1,13 @@
+24.FRANCO-PRUSSIAN WAR Jul. 1870 to Feb. 1871
+Region({s)=- Europe
+Nation(s)- FRANCE GERMANY/ PRUSSIA
+BADON BAVARIA
+WUERTTEMBERG
+Actor(s)- GARIBALDI-ITALY
+Comitter(s)- FRANCE
+Location(s)-= FRANCE GERMANY/ PRUSSIA
+Mode- Conventional Interstate Magnitude- 35 Combatants- 990000
+Deaths- 188000 Force= Ground Forces
+Issue(s)-— Territory—Population
+Qutcame(s)- Unsuccess. Committer
+Source(s)- 2 3

@@ -1,0 +1,11 @@
+435 .SUIYUAN 1936 to 1937
+Region(s)- Asia
+Nation(s)- CHINA MONGOLIA
+Actor(s)- KUOMINTANG=CHINA
+Committer(s)- MONGOLIA
+Location(s)- CHINA
+Mode- Unconventional Interstate Magnitude- 24 Cambatants- 0
+Deaths- 1000 Force- Ground Forces
+Issue(s)-— Internal Tension Opportunism
+Outcome(s)=- Unsuccess. Committer Successful Responder
+Source(s)- 3 .

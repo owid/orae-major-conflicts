@@ -1,0 +1,11 @@
+397.FIGHTING IN SZECHUAN 1920 to 1920
+Region({s)- Asia
+Nation(s)~ CHINA
+Actor(s}- YUNNAN-CHINA SZECHUAN—CHINA
+Committer(s)- SZSCHUAN-CHINA
+Location(s)-=- CHINA
+Mode- Primarily Internal Magnitude- 6 Conmbatants- 0
+Deaths- 3500 Force=- Ground Forces
+Issue(s)= Internal Tension
+Outcome(s)- Campramise Cammitter
+Source(s)- 3

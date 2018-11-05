@@ -1,0 +1,11 @@
+“3,RUSSIAN TURKESTAN 1916 to 1916
+Region(s)- Asia
+Nation(s)= RUSSIA (USSR) TURKESTAN
+tctor(s)- KIRGHIZ-TURKESTAN
+Ommitter(s)-— | KIRGHIZ-TURKESTAN
+Location(s)}- TURKESTAN
+Mode- Primarily Internal Magnitude- 12 Combatants- 0
+deaths- 8000 Force- Ground Forces
+Issue(s)— Colonial Territory-Population
+Outcome(s)— Successful Commnitter
+Source(s)- 3

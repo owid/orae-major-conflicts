@@ -1,0 +1,11 @@
+“?-ROMAN REPUBLIC WAR Apr. 1849 to Jul. 1849
+Region(s)- Europe
+Sation(s)~ PAPAL STATES FRANCE
+Two SICILIES AUSTRIA-HUNGARY
+Gamitter(s)- PAPAL STATES
+location(s)- I'TALY/SARDINIA
+Mode- Conventional Interstate Magnitude- 12 Canbatants- 810000
+Deaths— 3000 Force- Ground Forces
+issue(s)—- Territory-Population Military-Strategic
+Outcame(s)- Successful Committer Compromise Responder
+Source(s)- 2

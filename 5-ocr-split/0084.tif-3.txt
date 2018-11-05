@@ -1,0 +1,12 @@
+5,BRAZIL CIVIL WAR/BAHIA REVOLT 1896 to 1897
+a
+Region(s)- Americas
+Nation(s)=- BRAZIL
+Actor(s)- FARRAPOS~BRAZIL JAGUNEOS-BRAZTIL
+Camitter(s)— JAGUNEOS-BRAZIL
+Location(s)= BRAZIL
+Mode- Primarily Internal Magnitude- 12 Cambatants- 0
+Deaths- 1000 Force~ Ground Forces
+Issue(s)= Internal Tension Elite
+Outcome(s)= Unsuccess. Caommitter
+Source(s)~ 3

@@ -1,0 +1,13 @@
+C)s
+~~ “y,35.MILITARY REVOLT IN KENYA Jan. 1964 to Jan. 1964
+Region(s)- Africa
+Nation(s)- KENYA BRITAIN
+Actor (s)~+ ARMY FACTION-KENYA GOVERN. <KENYA
+committer (s)- ARMY FACTION-KENYA
+Location(s)- KENYA
+Intervener(s)= BRITAIN
+Mode- Internal(External Invol.) Magnitude- 2 Combatants- 0
+Deaths-— Q Force=- Ground Forces
+Issue(s)-— Elite Social Economical
+Outcome(s)-— Unsuccess. Conmitter Successful Responder
+Source(s)= 2

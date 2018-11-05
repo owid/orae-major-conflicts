@@ -1,0 +1,11 @@
+-% SOUTHERN CELEBES 1825 to 1825
+Region(s)- Asia
+Nation(s)~ INDONESIA HOLLAND
+Actor (s)— BONTANS- INDONESIA AUXILIARTES—HOLLAND
+Camitter(s)- HOLLAND AUXILIARIES—HOLLAND
+Location(s)}-— INDOWESIA
+Mode- Colonial Magnitude- 12 Cambatants- 0
+Deaths- 1000 Force Naval Forces Ground Forces
+Issue(s)~ Colonial
+outcame(s)= Successful Conmitter
+Source(s)=- 3

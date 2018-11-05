@@ -1,0 +1,14 @@
+368.SECOND BALKAN WAR Jun. 1913 to Sep. 1913
+Region(s)=— Europe
+Nation(s)- BULGARIA GREECE
+TURKEY RUMANIA
+Actor(s)= SERBS-YUGOSLAVIA
+Committer(s)= BULGARIA
+Location(s)<- YUGOSLAVIA/ SERBIA GREECE
+TURKEY BULGARIA
+Mode- Conventional Interstate Magnitude- 12 Cambatants- 820000
+Deaths- 61000 Force- Naval Forces Ground Forces
+Issue(s)- Territory—Population Military-Strategic
+Opportunism
+Outcome({s)- Unsuccess. Conmitter
+Source(s)~ 2 3

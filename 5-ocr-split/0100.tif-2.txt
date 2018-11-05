@@ -1,0 +1,11 @@
+“) WHITE WOLF WAR 1913 to 1914
+Region(s)— Asia
+Nation(s)= CHINA
+actor(s)- WHITE WOLF BANDITS PEKING GOVT.—CHINA
+Comitter(s)- WHITE WOLF BANDITS
+Location(s)— CHINA
+Mode- Primarily Internal Magnitude=- 12 Cambatants- 0
+Deaths 10000 Force= Ground Forces
+Issue(s)— Internal Tension
+Outcome(s)— Unsuccess. Committer
+Source(s)- 3

@@ -1,0 +1,16 @@
+- B54 -
+194.MEXICAN CIVIL WAR AND INTERVENTION Jan. 1858 to Jan. 1861
+Region(s)- Americas
+Nation(s)- MEXICO FRANCE
+BRITAIN SPAIN
+AUSTRIA-HUNGARY
+Actor(s)- CONSTITUTIONALISTS-M CONSERVATIVES-—MEXICO
+Committer(s)- MEXICO
+Location(s)- MEXICO
+Intervener(s)- BRITAIN FRANCE
+SPAIN AUSTRIA-HUNGARY
+Mode= Internal({External Invol.) Magnitude- 108 Cnombatants- 40000
+Deaths- 2000 Force- Ground Forces
+Issue(s)=— Colonial
+Outcame(s)- Compromise Conmitter
+Source(s)- 1 3

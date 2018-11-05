@@ -1,0 +1,11 @@
+367.OLD VERSUS NEW SYSTEMS IN CHINA 1913 to 1913
+Region(s)=- Asia
+Nation(s)- CHINA
+Actor(s)-= IMPERTAL-CHINA KUOMINTANGS~CHINA
+Camitter(s)= KUOMINTANG-CHINA
+Location(s)=- CHINA
+Mode- Primarily Internal Magnitude- 6 Cambatants- 0
+Deaths- 8000 Force= Ground Forces
+Issue(s)= Internal Tension Elite
+Outcame(s)~ Campromise Conmmitter
+Source(s)- 3

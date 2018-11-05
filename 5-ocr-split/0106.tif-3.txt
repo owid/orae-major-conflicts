@@ -1,0 +1,10 @@
+W@\SATIONALIST REVOLT IN KOREA 1919 to 1919
+Region(s)~ Asia
+Nation(s)=- JAPAN KOREA
+Camitter(s)— KOREA
+Location(s)= KOREA
+Mode=- Internal(External Invol.) Magnitude- 12 Combatants- 980000
+Deaths- QO Force Ground Forces
+Issue(s)~ Territory-Population Colonial
+Outcome(s)— Unsuccess. Cammitter
+Source(s)— 1

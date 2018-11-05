@@ -1,0 +1,14 @@
+- B39 -
+.39.CHILE-BOLIVIA WAR 1836 to 1839
+Region(s)- Americas
+Nation(s)— CHILE BOLIVIA
+PERU
+actor (s)- EXILES~PERU EXILES-CHILE
+Comitter(s)- BOLIVIA
+Location(s)= BOLIVIA CHILE
+Intervener(s)=- PERU
+Mede- Conventional Interstate Magnitude- 90 Combatants- 40000
+Deaths— 2400 Force- Ground Forces
+Issue(s)=- Elite
+outcome(s)- Successful Commnitter
+Sorce(s)- l1 3

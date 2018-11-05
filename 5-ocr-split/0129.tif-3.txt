@@ -1,0 +1,11 @@
+467.REFUSAL OF HYDERABAD TO JOIN INDIA Jan. 1948 to Sep. 1948
+Region(s)=- Asia
+Nation(s)- INDIA
+Actor(s)= BYDERARAD=-INDIA INDIAN GOVERNMENT
+Committer(s)- HYDERABAD~INDIA
+Location(s)- INDIA
+Mode~ Imperial Magnitude- 8 Combatants~ 0
+Deaths- 3000 Force- Ground Forces
+Issue(s)- Elite
+Outcome(s)- Campromise Conmitter
+Source({s)- 2 3

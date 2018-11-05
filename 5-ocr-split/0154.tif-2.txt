@@ -1,0 +1,12 @@
+O 346.GABON COUP D' ETAT Feb. 1964 to Feb. 1964
+Region(s)=- Africa
+Nation(s)- GABON FRANCE
+Actor(s)- ARMY FACTION-GABON  GOVN.-GABON
+Comitter(s)- GABON
+Location(s)= GABON
+Intervener(s})-— FRANCE
+Mode~- Internal (External Invol.) Magnitude- 2 Canbatants- 0
+Deaths- 0 Force- Ground Forces
+Issue(s)- Elite
+Outcame(s)- Unsuccess. Committer
+Source(s)- 2

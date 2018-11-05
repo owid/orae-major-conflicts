@@ -1,0 +1,11 @@
+420.CHINA 1930 to 1930
+Region(s)=- Asia
+Nation(s)- CHINA
+Actor (s)- KUOMINTANG—CHINA TANG SHENG-CHI
+Camitter(s)- TANG SHENG-CHI
+Location(s)= CHINA
+Mode- Primarily Internal Magnitude-— 6 Combatants- 0
+Deaths-— 1000 Force- Ground Forces
+Issue(s)— Elite
+Outcome(s)- Unsuccess. Committer
+Source(s)=- 3

@@ -1,0 +1,11 @@
+54.SOUTH AFRICA 1877 to 1878
+Region(s)=— Africa
+Nation(s)= SOUTH AFRICA BRITAIN
+Actor(s)- ZULUS
+Comitter(s)= BRITAIN
+Location(s)}~ SOUTH AFRICA
+Mode~ Primarily Internal Magnitude- 24 Conrbatants- 0
+Deaths— 1000 Force- Ground Forces
+Issue(s)- Territory-Population Colonial
+Outcome(s)- Successful Canmmitter
+Source(s)= 3

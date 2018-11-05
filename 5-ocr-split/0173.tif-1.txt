@@ -1,0 +1,13 @@
+\ GOVERNMENT INSTABILITY AND REVOLT Feb. 1975 to Feb. 1976
+Region(s)- Europe
+Nation(s)~ PORTUGAL
+actor (s)— GOVERN. - PORTUGAL ARMY FACTION-PORT.
+COMMUNISTS-PORTUGAL LEFT WING-PORTUGAL
+RIGHT WING-PORTUGAL AZOREN LIBERAT.-PORT
+Cammitter(s)- ARMY FACTION-PORT.
+Location(s)- PORTUGAL
+Mode~ Primarily Internal Magnitude- 12 Combatants- 0
+Deaths-— Q Force- Ground Forces
+Issue(s)= Internal Tension Social Economical
+Outcome(s)- Unsuccess. Cannitter
+Source(s)- 9

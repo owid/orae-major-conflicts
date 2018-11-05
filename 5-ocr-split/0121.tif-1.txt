@@ -1,0 +1,10 @@
+44] .OCCUPATION OF ALBANIA BY ITALY Apr. 1939 to Apr. 1939
+Region(s)- Europe
+Nation(s)- TTALY/ SARDINIA ALBANIA
+Committer(s)- ITALY/SARDINIA
+Location(s)= ALBANIA .
+Mode- Imperial Magnitude- 2 Combatants- 50000
+Deaths- QO Force- Ground Forces Air Forces
+Issue(s)- Territory-Population Military-Strategic
+Outcome(s)= Successful Caonmitter
+Source(s)= 1

@@ -1,0 +1,12 @@
+%.UGANDA WAR 1892 to 1893
+Region(s)- Africa
+Nation(s)- UGANDA BRITAIN
+Actor(s)- BA-FRANZA-UGANDA BA-INGLEZA-UGANDA
+Camitter(s)- BA-FRANZA~UGANDA BA-INGLEZA-UGANDA
+Location{s)= UGANDA
+Intervener(s)- BRITAIN
+Mode- Primarily Internal Magnitude- 18 Conbatants- 0
+Deaths— 1000 Force=- Ground Forces
+Issue(s)— Territory-Population
+Outcame(s)=- Successful Conmitter
+Source(s)= 3

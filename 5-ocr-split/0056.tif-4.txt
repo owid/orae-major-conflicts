@@ -1,0 +1,11 @@
+“0.DUTCH CAMPAIGN IN SOUTH BORNEO 1859 to 1863
+Region(s)— Asia
+Nation(s)-= HOLLAND INDONESIA
+Actor(s)~ BANJERMASIN-INDONES.
+Camitter(s)- HOLLAND
+Location(s)= BORNEO
+Mode— Colonial Magnitude- 96 Cambatants- 0
+Deaths- 1000 Force- Naval Forces Ground Forces
+Issue(s)— Colonial
+Outcome(s)- Successful Conmitter
+Source(s)- 3

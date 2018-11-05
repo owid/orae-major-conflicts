@@ -1,0 +1,11 @@
+- 53108 -
+391.EAST GALICIA 1919 to 1919
+Region(s)- Europe
+Nation(s)- POLAND UKRANTIA
+Committer(s)- UKRANIA
+Location(s)= POLAND UKRANIA
+Mode- Conventional Interstate Magnitude- 12 Combatants- 0
+Deaths- 1000 Force=- Ground Forces
+Issue(s)- Internal Tension
+Outcome(s)- Compromise Conmitter
+Source(s)=- 3

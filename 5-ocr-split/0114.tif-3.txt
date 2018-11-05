@@ -1,0 +1,11 @@
+TROUBLES IN INDOCHINA Feb. 1930 to 1931
+Region({s)=- Asia
+Nation(s)— FRANCE INDOCHINA/ ANNAM
+actor(s)- NATIONALISTS—INDOCH.
+Comitter(s)- NATIONALISTS—INDOCH.
+location(s)= INDOCHINA/ANNAM
+Mode- Colonial Magnitude- 32 Combatants- 8000
+Deaths— 2000 Force- Ground Forces
+Issue(s)= Colonial
+Outcome(s)=— Unsuccess. Cammitter
+Source(s)~ 1

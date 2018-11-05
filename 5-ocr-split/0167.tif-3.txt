@@ -1,0 +1,11 @@
+586 .GOVERNMENT INSTABILITY IN BOLIVIA 1971 to 1971
+Region(s)= Americas
+Nation(s)- BOLIVIA
+Actor(s)= GOVERN. ~BOLIVIA REVOLUT.—-BOLIVIA
+Canmitter({s)— REVOLUT.—BOLIVIA
+Location(s)- BOLIVIA
+Mode- Primarily Internal Magnitude- 6 Combatants- 0
+Deaths- 100 Force- Ground Forces
+Issue(s)= Internal Tension Elite
+Outcome(s)= Unsuccess. Committer
+Source(s)- 8

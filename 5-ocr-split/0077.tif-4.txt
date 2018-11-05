@@ -1,0 +1,11 @@
+289.UPPER SENEGAL COLONIAL CONFLICT 1890 to 1891
+Region(s)~ Africa
+Nation(s)= FRANCE SENEGAL
+Actor (s)=- KINGAHMADU-SENEGAL
+Committer(s)— FRANCE SENEGAL
+Location(s)= SENEGAL
+Mode- Colonial Magnitude- 24 Coambatants- 30000
+Deaths- 1000 Force= Ground Forces
+Issue(s)— Colonial
+Outcome(s)= Successful Committer
+Source(s)- 3

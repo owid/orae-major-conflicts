@@ -1,0 +1,11 @@
+.” CHINA 1929 to 1930
+Region(s)- Asia
+Nation(s)— CHINA
+Actor(s)= CHIANG KAI-SHEK-CHI. CHANG FA-KUEI-CHINA
+Comitter(s)~ CHANG FA-KUEI-CHINA
+Location(s)-=- CHINA
+“ode~ Primarily Internal Magnitude- 12 Combatants- 0
+Deaths— 1000 Force- Ground Forces
+ssue(s)— Elite
+Qutcame(s)— Unsuccess. Committer
+Source(s)- 3

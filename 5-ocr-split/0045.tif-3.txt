@@ -1,0 +1,11 @@
+159.SECOND GALICIA WAR 1846 to 1846
+Region(s)- Europe
+Nation(s)- AUSTRIA-HUNGARY POLAND
+Actor(s)- POLISH REVOLUTION POLISH NOBLES
+Comitter(s)~ AUSTRIA-HUNGARY
+Location(s)- POLAND
+Mode- Conventional Interstate Magnitude~ 12 Combatants- 0
+Deaths 2000 Force- Ground Forces
+Issue(s)~ Elite
+Outcame(s)— Successful Committer
+Source(s)- 3

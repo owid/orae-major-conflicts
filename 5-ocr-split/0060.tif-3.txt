@@ -1,0 +1,14 @@
+:.FRANCO-MEXICAN WAR Apr. 1862 to Feb. 1867
+Region(s)~ Americas
+Nation(s)= FRANCE MEXICO
+AUSTRIA-HUNGARY BRITAIN
+SPAIN
+Actor(s)= CONSTITUTIONALISTS=M
+Camitter(s)- FRANCE
+Location(s)= MEXICO
+Intervener(s)~ AUSTRIA-HUNGARY
+Mode~ Conventional Interstate Magnitude- 261 Combatants- 541000
+Deaths— 20000 Force- Ground Forces
+Issue(s)~ Colonial
+Qutcame{s)— Unsuccess. Conmitter
+Source(s)= 2 3

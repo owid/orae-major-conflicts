@@ -1,0 +1,11 @@
+234.ENGLAND-ABYSSINIA WAR Sep. 1867 to 1868
+Region(s)- Africa
+Nation(s)= BRITAIN ETHIOPIA
+Actor(s)= GALLAS~ETHIOPIA INDIANS
+Committer(s)- BRITAIN
+Location(s)= ETHIOPIA
+Mode- Conventional Interstate Magnitude- 18 Conbatants- 80000
+Deaths-— 4000 Force- Ground Forces
+Issue(s}= Internal Tension
+Outcome(s)- Successful Committer
+Source({s)- 1 3

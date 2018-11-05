@@ -1,0 +1,82 @@
+- B115 -
+
+ 
+
+2 CNA 1929 to 1929
+
+j region(s)- Asia
+
+{ mation(s)— CHINA
+
+& setor(s)- CHIANG KAI-SHEK-CHI. FENG YU-HSIANG~CHINA
+
+; Ommitter(s)- FENG YU-HSIANG-CHINA
+
+’ Leation(s)— CHINA
+
+» Mode~ Primarily Internal Magnitude— 6 Combatants- 0
+peaths- 1000 Force- Ground Forces
+
+Issue(s)~ Elite
+Outcame(s)— Unsuccess. Conmitter
+
+gurce(s)-— 3
+RERKEKEKKENAEAARERHEREEEEEKEKERRKREAAKEKERERE RK
+
+.” CHINA 1929 to 1930
+Region(s)- Asia
+
+Nation(s)— CHINA
+
+Actor(s)= CHIANG KAI-SHEK-CHI. CHANG FA-KUEI-CHINA
+Comitter(s)~ CHANG FA-KUEI-CHINA
+
+Location(s)-=- CHINA
+
+“ode~ Primarily Internal Magnitude- 12 Combatants- 0
+Deaths— 1000 Force- Ground Forces
+
+ssue(s)— Elite
+Qutcame(s)— Unsuccess. Committer
+
+Source(s)- 3
+EAEEKAREKERAEEKEREUNEEEEEREERENERERRKEARRERRKEREREAEER KREME KKKERKKRKHKK
+
+TROUBLES IN INDOCHINA Feb. 1930 to 1931
+Region({s)=- Asia
+Nation(s)— FRANCE INDOCHINA/ ANNAM
+actor(s)- NATIONALISTS—INDOCH.
+
+Comitter(s)- NATIONALISTS—INDOCH.
+
+location(s)= INDOCHINA/ANNAM
+
+Mode- Colonial Magnitude- 32 Combatants- 8000
+Deaths— 2000 Force- Ground Forces
+
+Issue(s)= Colonial
+
+Outcome(s)=— Unsuccess. Cammitter
+
+Source(s)~ 1
+EAAKRERAARERAAEEKREERERREKEKEEREREKKEKRARERRERERKEEREREKKKEEKKKKaKK KKK
+
+~).TROUBLES IN INDIA Mar. 1930 to Mar. 1931
+
+Region(s)=- Asia
+
+Nation(s)= BRITAIN INDIA
+
+Comitter(s)- INDIA
+
+Location(s)- INDIA
+
+Mode- Colonial Magnitude- 24 Combatants- 50000
+Deaths— QO Force- Ground Forces
+
+Issue(s)— Colonial
+
+Outcome(s)- Compromise Committer
+
+Source(s)—- 1
+

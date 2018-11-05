@@ -1,0 +1,10 @@
+393 .FRANCE-TURKEY WAR 1919 to May. 1920
+Region(s)=- Europe
+Nation(s)- TURKEY FRANCE
+Committer(s)- FRANCE
+Location(s)= TURKEY
+Mode- Conventional Interstate Magnitude- 22 Combatants- 60000
+Deaths- OQ Force- Ground Forces
+Issue(s)- Territory-Population
+Outcame(s)- Compromise Committer
+Source(s)- 1

@@ -1,0 +1,11 @@
+*.COLOMBIA CIVIL WAR (NEW GRANADA) 1839 to 1842
+fegion(s)= Americas
+Nation(s)= COLOMBIA
+sctor(s)= OBANDO FORCES-CHILE MARQUEZ FORCES-CHILE
+Camitter(s)- MARQUEZ FORCES-CHILE
+Location(s)- COLOMBIA
+Mode- Primarily Internal Magnitude- 36 Combatants- 0
+Seaths—- QO Force- Ground Forces
+Issue(s)- Elite
+Q&ncane(s)- Unsuccess. Canmitter
+Source(s)= 3

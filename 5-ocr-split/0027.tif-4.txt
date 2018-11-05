@@ -1,0 +1,13 @@
+96. FRANCO-SPANISH WAR Apr. 1823 to Nov. 1823
+Region({s)- Europe
+Nation(s)-=- SPAIN FRANCE
+Actor(s)- ROYALISTS-SPAIN REPUBLICANS—SPAIN
+Camitter(s)= SPAIN
+Location(s)~ SPAIN
+Intervener(s)~ FRANCE
+Mode- Conventional Interstate Magnitude- 11 Combatants- 370000
+Deaths- 1000 ~Force=- Ground Forces
+Issue(s)- Internal Tension Territory—Population
+Elite
+Outcome({s)— Unsuccess. Conmitter
+Source(s)- 2 3

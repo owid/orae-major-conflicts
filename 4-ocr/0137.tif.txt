@@ -1,0 +1,62 @@
+- B138 -
+
+492.REBELLION IN COSTA RICA Jan. 1955 to Jan. 1955
+
+Region(s)=- Americas
+
+Nation(s)~ COSTA RICA NICARAGUA
+UNITED STATES
+
+Actor(s)- REVOLUT.-COSTA RICA
+
+Conmmitter(s)- REVOLUT.-COSTA RICA
+
+Location(s)=- COSTA RICA
+
+Intervener(s)-— NICARAGUA UNITED STATES
+
+Mode- Conventional Interstate Magnitude- 2 Cambatants- 0
+
+Deaths-— 1000 Force- Ground Forces
+
+Issue(s)- Internal Tension
+
+Outcome(s)—- Unsuccess. Comnitter
+
+Source(s)— 2
+HERRERA KR RRR
+
+493.VIETNAM CIVIL WAR Mar. 1955 to Oct. 1955
+
+Region(s)- Asia
+Nation(s)- VIETNAM SOUTH FRANCE
+Cammitter(s)- VIETNAM SOUTH
+Location(s)- VIETNAM SOUTH
+Intervener(s)=- FRANCE
+Mede- Primarily Internal Magnitude- 11 Combatants- 0
+Deaths-— QO Force— Ground Forces
+Issue(s)= Internal Tension Social Economical
+Elite
+Outcome(s)-— Unsuccess. Commnitter
+
+Source(s)- 5
+RARER KEREREEREREERAEKTKERREREAERERKRKRERRERERKREEE
+
+494.CYPRUS STRUGGLE TO BECOME INDEPENDENT Sep. 1955 to Oct. 1959
+Region(s)— Europe
+Nation(s)- CYPRUS BRITAIN
+TURKEY GREECE
+Actor(s)- ENOSIS MOVEMENT-CYP. GREEK CYPRIOTS
+TURK CYPRIOTS
+Canmmitter(s}— TURK CYPRIOTS ENOSIS MOVEMENT—CYP.
+GREEK CYPRIOTS
+Location(s)- CYPRUS
+Intervener(s)= BRITAIN TURKEY
+GREECE
+Mode=- Colonial Magnitude- 123 cCambatants- 40000
+Deaths— 0 Force- Ground Forces
+
+Issue(s)- Colonial
+Outcome(s)- Successful Conmitter
+Source(s)- 2
+

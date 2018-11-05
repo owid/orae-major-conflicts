@@ -1,0 +1,11 @@
+638.PERU: MAOIST INSURGENCY May. 1980 to 1985
+Region(s)=- Americas
+Nation(s)- PERU
+Actor(s)-= MAOIST REBELS-PERU
+Cammitter(s)- MAOIST REBELS-PERU
+Location(s)— PERU
+Mode- Primarily Internal Magnitude- 61 Combatants- 140000
+Deaths~ 3000 Force- Ground Forces
+Issue(s)- Internal Tension Social Economical
+Outcome({s)- Ongoing
+Source(s}= 9 10 11 14

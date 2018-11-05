@@ -1,0 +1,11 @@
+%§.GERMAN CONQUEST IN EAST AFRICA 1891 to 1898
+Region(s)~ Africa
+Nation(s)= GERMANY/ PRUSSIA TANZANIA
+Actor(s)= NATIVES-TANZANIA
+Committer(s)- | GERMANY/PRUSSIA
+Location(s)=- TANZANIA
+Mode- Colonial Magnitude- 168 Conbatants- 0
+Deaths— 1100 Force- Ground Forces
+Issue(s)- Colonial
+Outcane(s)- Successful Committer
+Source(s)= 3

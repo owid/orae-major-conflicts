@@ -1,0 +1,10 @@
+549.BORDER DISPUTE BETWEEN CHILE-ARGENTINA 1965 to 1966
+Region({s)- Americas
+Nation(s)- CHILE ARGENTINA
+Camitter(s)- CHILE ARGENTINA
+Location(s)- CHILE ARGENTINA
+Mode- Conventional Interstate Magnitude- 24 Combatants- 0
+Deaths- 0 Force=- Ground Forces
+Issue(s)- Territory-Population
+Outcame(s)- Canpromise Canmitter
+Source(s)= 5

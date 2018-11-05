@@ -1,0 +1,11 @@
+79 .DUTCH CONQUEST OF CENTRAL SUMATRA 1817 to 1837
+Region(s)- Asia
+Nation(s)=- HOLLAND INDONESIA
+Actor(s)- PALEMBANG-SUMATRA
+Conmitter(s)- HOLLAND
+Location(s)- SUMATRA~- INDONESIA
+Mode- Colonial Magnitude- 480 Combatants- 0
+Deaths-— 6000 Force- Naval Forces Ground Forces
+Issue(s)— Social Economical Colonial
+Outcame(s)- Successful Conmitter
+Source(s)- 3

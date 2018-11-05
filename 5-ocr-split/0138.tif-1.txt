@@ -1,0 +1,16 @@
+id - Bi39 -
+-4 g5.SUDAN CIVIL WAR AND COUPS Dec. 1955 to Mar. 1972
+“\ pegion(s)= Africa
+'! Wation(s)- SUDAN BRITAIN
+EGYPT
+Actor (s)- COMMUNISTS-SUDAN KHATMI MOSLEMS-SUDAN
+LEFT WING JUNTA-SUD. MAHDISTS-SUDAN
+Cenmitter(s)- | MAHDISTS-SUDAN COMMUNISTS-SUDAN
+KHATMI MOSLEMS-SUDAN LEFT WING JUNTA-SUD.
+Location(s)-= SUDAN
+Intervener(s)~ BRITAIN BGYPT
+Mode- Primarily Internal Magnitude- 390 Combatants-— 40000
+Deaths= 700000 Force- Ground Forces
+Issue(s)- Elite Internal Tension
+‘Outcome(s)~ Campromise Cammitter
+Source(s)=- 1 7

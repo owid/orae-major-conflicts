@@ -1,0 +1,12 @@
+102.LA PLATA 1825 to 1828
+Region({s)= Americas
+Nation(s)=- BRAZIL ARGENTINA
+URUGUAY
+Cammitter(s)- ARGENTINA URUGUAY
+Location(s)-= BRAZIL ARGENTINA
+URUGUAY
+Mode- Conventional Interstate Magnitude- 108 Cambatants- 0
+Deaths- 2000 Force— Ground Forces
+Issue(s)- Territory-Population
+Outcame(s)- Compromise Commnitter
+Source(s)= 3

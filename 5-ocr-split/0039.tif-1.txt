@@ -1,0 +1,12 @@
+-~ B38 -
+136.CONFLICT OVER TEXAS Oct. 1835 to Apr. 1836
+Region(s)- Americas
+Nation(s)- MEXICO UNITED STATES
+Actor(s)- TEXAS
+Committer(s)- MEXICO
+Location(s)- UNITED STATES
+Mode~ Colonial Magnitude- 12 Combatants- 6000
+Deaths- 2000 Force- Ground Forces
+Issue(s)- Territory-Population Colonial
+Outcame(s)=- Unsuccess. Committer
+Source(s)= 2 3
