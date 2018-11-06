@@ -94,7 +94,7 @@ function extractStartLabels(filePath, content) {
 		.split('\n')
 		.map((line) => {
 			const [labelText, valueText] = splitOnIndex(line, getLabelEndIndex(line));
-			const fuzzyMatches = fuzzyStartLabels.get(labelText, null, 0.4);
+			const fuzzyMatches = fuzzyStartLabels.get(labelText, null, 0.3);
 			const result = { line, labelText, valueText, fuzzyMatches };
 			// If the Levenshtein distance is very small, assume the label is correctly
 			// identified.
