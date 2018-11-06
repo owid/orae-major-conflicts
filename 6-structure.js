@@ -115,7 +115,7 @@ function extractStartLabels(filePath, content) {
 				lastLabelIndex = startLabels.indexOf(label);
 			}
 			else if (lastLabelIndex == null) {
-				entry.header = appendLine(entry.header, line);
+				entry["HEADER"] = appendLine(entry["HEADER"], line);
 			}
 			else {
 				entry[startLabels[lastLabelIndex]] = appendLine(entry[startLabels[lastLabelIndex]], line);
@@ -159,9 +159,9 @@ function isYear(word) {
 }
 
 function extractStartEnd(entry) {
-	if (entry.header) {
+	if (entry["HEADER"]) {
 		const years = [];
-		const words = entry.header.split(/\s+/).slice(2);
+		const words = entry["HEADER"].split(/\s+/).slice(2);
 		words.forEach((word) => {
 			if (isYear(word)) years.push(word);
 		});
@@ -198,7 +198,7 @@ glob('5-ocr-split/*.txt').then((matches) => Promise.all(
 	header: true,
 	columns: [
 		'filePath',
-		'header',
+		'HEADER',
 		'START',
 		'END',
 		'REGION(S)-',
