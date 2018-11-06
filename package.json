@@ -1,0 +1,21 @@
+{
+  "name": "orae-major-conflicts",
+  "version": "0.0.0",
+  "description": "Scripts for digitizing the ORAE Major Conflicts dataset",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owid/orae-major-conflicts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/owid/orae-major-conflicts",
+  "dependencies": {
+    "csv-stringify": "^4.3.1",
+    "fast-glob": "^2.2.3",
+    "fs-extra": "^7.0.0",
+    "fuzzyset.js": "0.0.7",
+    "lodash": "^4.17.11"
+  }
+}
