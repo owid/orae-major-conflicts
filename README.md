@@ -30,10 +30,10 @@ convert -density 300 1-pdf/orae_merged.pdf 2-images/p%03d.png
 (cd 3-clean-images; for file in *.tif; do echo $file; tesseract --psm 4 -l eng $file 4-ocr/$file; done)
 ```
 
-4. Use the `split-events.js` script to extract the individual events from each page. (Note: this script is very specific to tesseract 4.0 with the default training data, you need to tweak it if you're working with something else.)
+4. Use the `5-split.js` script to extract the individual events from each page. (Note: this script is very specific to tesseract 4.0 with the default training data, you need to tweak it if you're working with something else.)
 
 ```sh
-(cd 4-ocr; for file in *.txt; do echo $file; ../split-events.js 4-ocr/$file 5-ocr-split/$file; done)
+(cd 4-ocr; for file in *.txt; do echo $file; ../5-split.js 4-ocr/$file 5-ocr-split/$file; done)
 ```
 
 5. Extract structured data from each event file.
