@@ -1,57 +1,59 @@
- 
+| -4.CHINESE CIVIL WAR Jul. 1926 to May. 1928
 
- 
+b
 
-- Bi113 -
-
- 
-
-“§ -9.CHINESE CIVIL WAR Jul. 1926 to May. 1928
 Region(s)- Asia
-§ = Nation(s)- JAPAN RUSSIA (USSR)
-; CHINA
-1 Actor(s)- KUOMINTANG—CHINA COMMUNILSTS-CHINA
-: WU PEI-FU-CHINA SUN CHUAN—FANG-CHINA
-i committer(s)— KOOMINTANG—-CHINA COMMUNISTS-—CHINA
-$= Tecation(s)— CHINA
-> Intervener(s)-— RUSSIA (USSR)
-: Mode- Primarily Internal Magnitude- 55 Combatants- 1100000
-: Deaths- 65000 Force- Ground Forces
-'  [ssue(s)-— Internal Tension Territory—Population
-C) : Social Economical Elite
 
-Outcome(s)- Unsuccess. Committer
+i Nation(s)- JAPAN RUSSIA (USSR)
+CHINA
+Actor(s)- KUOMINTANG-—CHINA COMMUNISTS-CHINA
+WU PEI-FU-CHINA SUN CHUAN-FANG-CHINA
+Comitter(s)~ | KUOMINTANG-CHINA COMMUNISTS-CHINA
+Location(s)- CHINA
+Intervener(s)— RUSSIA (USSR)
+Mode- Primarily Internal Magnitude- 55 Coambatants- 1100000
+Deaths— 65000 Force- Ground Forces
+Issue(s)— Internal Tension Territory—Population
+Secial Economical Elite
+
+Outcome({s)-— Unsuccess. Committer
 
 Source(s)- 1 3
-EAKKKEKKREKCUEKEAKREERERAKCRRRREKKERERKKEERKK IRE RRAEREKRERKERERKKKKKRRKKEK
+KEKE EERE RERRERRRRREEREEMEKKRRRARRKKE
 
-2). NICARAGUA CIVIL WAR Jan. 1927 to Jan. 1933
+2).NICARAGUA CIVIL WAR Jan. 1927 to Jan. 1933
 Region(s)— Americas
 Nation(s)- NICARAGUA UNITED STATES
 MEXICO
 Actor(s)- CONSERVATIVES-NICAR. LIBERALS-NICARAGUA
-Caomitter(s)—- NICARAGUA
-Location(s)- NICARAGUA
-Intervener(s)-— UNITED STATES MEXICO
-Mode- Internal (External Invol.) Magnitude-— 144 Conbatants- 0
-Deaths— Q Force- Ground Forces Naval Forces
-Issue(s)— Elite Social Economical
 
-Qutcome(s)- Unsuccess. Committer
-Source(s)-— 2
+Committer(s)- NICARAGUA
 
-C) KAKKKAK KEKE KERAEEREKEEKEERREREK
-~1.FIRST CHINESE-COMMUNIST WAR Aug. 1927 to Oct. 1935
-Region(s)~ Asia
-Nation(s)- CHINA
-Actor(s)— KUOMINTANG—CHINA COMMUNISTS-CHINA
-Conmitter(s)— KUOMINTANG-—CHINA COMMUNISTS-CHINA
-Location(s)- CHINA
-Mode~ Primarily Internal Magnitude- 98 Cambatants- 400000
-Deaths— 1250000 Force= Ground Forces Air Forces
-Issue(s)— ial Economical Internal Tension
+Location(s)=- NICARAGUA
+
+Intervener(s)- UNITED STATES MEXICO
+
+Mode- Intermal(External Invol.) Magnitude- 144 Combatants- 0
+Deaths— O Force- Ground Forces Naval Forces
+
+Issue(s)~- Elite Social Economical
+
+Qutcome(s)- Unsuccess. Conmitter
+
+Source(s)- 2
+RRERKRERRETEEEERRERREREKEKRREEERERERERERAAEEKAKKEEREERERKREKEEERREEEEREKREREE
+
+«l.FIRST CHINESE-COMMUNIST WAR Aug. 1927 to Cct. 1935
+Region(s)- Asia
+Nation({s)— CHINA
+Actor(s)-— KUOMINTANG—CHINA COMMUNISTS-CHINA
+Canmitter(s)—- KUOMINTANG—-CHINA COMMUNISTS-CHINA
+Location(s)—- CHINA
+Mode~ Primarily Internal Magnitude- 98 Cocmbatants=- 400000
+Deaths— 1250000 Force=- Ground Forces Air Forces
+Issue(s}— ial Econanical Internal Tension
 Elite
 
-Outcome(s)=- Compromise Comnitter
+Outcome(s)- Compromise Committer
 Source(s)- 1
 

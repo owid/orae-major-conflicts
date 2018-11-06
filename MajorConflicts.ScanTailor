@@ -1,6 +1,6 @@
-<project outputDirectory="/Users/daniel/Projects/ocr-conflicts/2-png/out" layoutDirection="LTR">
+<project outputDirectory="/Users/daniel/Projects/ocr-conflicts/2-images/out" layoutDirection="LTR">
   <directories>
-    <directory path="/Users/daniel/Projects/ocr-conflicts/2-png" id="1"/>
+    <directory path="/Users/daniel/Projects/ocr-conflicts/2-images" id="1"/>
   </directories>
   <files>
     <file dirId="1" id="2" name="p000.png"/>
@@ -942,7 +942,7 @@
     </image>
   </images>
   <pages>
-    <page imageId="3" subPage="single" selected="selected" id="4"/>
+    <page imageId="3" subPage="single" id="4"/>
     <page imageId="6" subPage="single" id="7"/>
     <page imageId="9" subPage="single" id="10"/>
     <page imageId="12" subPage="single" id="13"/>
@@ -963,7 +963,7 @@
     <page imageId="57" subPage="single" id="58"/>
     <page imageId="60" subPage="single" id="61"/>
     <page imageId="63" subPage="single" id="64"/>
-    <page imageId="66" subPage="single" id="67"/>
+    <page imageId="66" subPage="single" selected="selected" id="67"/>
     <page imageId="69" subPage="single" id="70"/>
     <page imageId="72" subPage="single" id="73"/>
     <page imageId="75" subPage="single" id="76"/>
@@ -4144,9 +4144,9 @@
           </dependencies>
         </params>
       </image>
-      <image id="336">
-        <params mode="auto">
-          <pages type="single-uncut">
+      <image layoutType="single-cut" id="336">
+        <params mode="manual">
+          <pages type="single-cut">
             <outline>
               <point x="0" y="0"/>
               <point x="2550" y="0"/>
@@ -4154,11 +4154,19 @@
               <point x="0" y="3300"/>
               <point x="0" y="0"/>
             </outline>
+            <cutter1>
+              <p1 x="385.2500579296708" y="32.43774574049804"/>
+              <p2 x="308.9610744071372" y="3300"/>
+            </cutter1>
+            <cutter2>
+              <p1 x="2170.995006119153" y="32.43774574049804"/>
+              <p2 x="2156.597574227526" y="3300"/>
+            </cutter2>
           </pages>
           <dependencies>
             <rotation degrees="0"/>
             <size width="2550" height="3300"/>
-            <layoutType>auto-detect</layoutType>
+            <layoutType>single-cut</layoutType>
           </dependencies>
         </params>
       </image>
@@ -7322,11 +7330,11 @@
           <dependencies>
             <rotation degrees="0"/>
             <page-outline>
-              <point x="0" y="0"/>
-              <point x="2550" y="0"/>
-              <point x="2550" y="3300"/>
-              <point x="0" y="3300"/>
-              <point x="0" y="0"/>
+              <point x="2171.137908931528" y="0"/>
+              <point x="2156.597532403738" y="3300"/>
+              <point x="308.961046750125" y="3300"/>
+              <point x="386.0073289069119" y="0"/>
+              <point x="2171.137908931528" y="0"/>
             </page-outline>
           </dependencies>
         </params>
@@ -10052,15 +10060,15 @@
       </page>
       <page id="337">
         <params mode="auto">
-          <content-rect width="2386" x="34.00000000000001" y="20" height="2708"/>
-          <content-size-mm width="202.0146666666667" height="229.2773333333334"/>
+          <content-rect width="1780" x="26.00000000000001" y="390.0000000000001" height="2334"/>
+          <content-size-mm width="150.7066666666667" height="197.6120000000001"/>
           <dependencies>
             <rotated-page-outline>
-              <point x="0" y="30.59706921245167"/>
-              <point x="2549.816428560222" y="0"/>
-              <point x="2589.412635776336" y="3299.762436960288"/>
-              <point x="39.59620721611393" y="3330.359506172739"/>
-              <point x="0" y="30.59706921245167"/>
+              <point x="1822.446599087755" y="-3.552713678800501e-15"/>
+              <point x="1847.503476520335" y="3299.936904766952"/>
+              <point x="0" y="3322.106419053617"/>
+              <point x="37.44452847128275" y="21.41951525893223"/>
+              <point x="1822.446599087755" y="-3.552713678800501e-15"/>
             </rotated-page-outline>
           </dependencies>
         </params>
@@ -11973,7 +11981,7 @@
       <page id="337">
         <params>
           <hardMarginsMM right="10" left="10" bottom="5" top="5"/>
-          <contentSizeMM width="202.0146666666667" height="229.2773333333334"/>
+          <contentSizeMM width="150.7066666666667" height="197.6120000000001"/>
           <alignment vert="top" hor="hcenter" null="0"/>
         </params>
       </page>
@@ -12524,8 +12532,8 @@
         </params>
         <output-params>
           <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="auto">
-            <size width="2622" height="3188"/>
-            <content-rect width="1674" x="474" y="59" height="1510"/>
+            <size width="2312" height="3188"/>
+            <content-rect width="1674" x="319" y="59" height="1510"/>
             <partial-xform>
               <m11>0.999951808959328</m11>
               <m12>0.009817319337149617</m12>
@@ -12546,8 +12554,8 @@
               </bottom-curve>
             </distortion-model>
           </image>
-          <file size="17506" mtime="1541202989"/>
-          <speckles size="2070" mtime="1541202989"/>
+          <file size="17126" mtime="1541546742"/>
+          <speckles size="1946" mtime="1541546742"/>
           <zones/>
           <fill-zones/>
         </output-params>
@@ -13521,7 +13529,7 @@
               <polyline>gramQ7YhZkRAnvJD7AtkRPZ+FUQaw2JEo3kzRBaqYUQKCVVES8BgRO9ve0RL719E7xOfRJXCXkS6MM1EAvJcRDUqAkU1BltE</polyline>
             </top-curve>
             <bottom-curve>
-              <polyline>DPXCQ1h9S0XYARBEO5FLRZXHLkS2k0tF+alLRN2JS0X/pmdEGXBLRQy9gkSkR0tFvUueROPzSkUk7rlEdrdKRdkG10SUfkpF2Rr1ROUySkUaSgZFq+9JRQ==</polyline>
+              <polyline>DPXCQ1h9S0XcARBEO5FLRZvHLkS2k0tFAqpLRN2JS0UJp2dEGXBLRRO9gkSkR0tFxUueROPzSkUq7rlEdrdKRd0G10SUfkpF2xr1ROUySkUaSgZFq+9JRQ==</polyline>
             </bottom-curve>
           </distortion-model>
           <dpi vertical="300" horizontal="300"/>
@@ -13532,8 +13540,8 @@
         </params>
         <output-params>
           <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="auto">
-            <size width="2622" height="3188"/>
-            <content-rect width="1744" x="439" y="59" height="2086"/>
+            <size width="2312" height="3188"/>
+            <content-rect width="1744" x="284" y="59" height="2086"/>
             <partial-xform>
               <m11>0.9998280626727719</m11>
               <m12>0.01854306048125802</m12>
@@ -13550,12 +13558,12 @@
                 <polyline>gramQ7YhZkRAnvJD7AtkRPZ+FUQaw2JEo3kzRBaqYUQKCVVES8BgRO9ve0RL719E7xOfRJXCXkS6MM1EAvJcRDUqAkU1BltE</polyline>
               </top-curve>
               <bottom-curve>
-                <polyline>DPXCQ1h9S0XYARBEO5FLRZXHLkS2k0tF+alLRN2JS0X/pmdEGXBLRQy9gkSkR0tFvUueROPzSkUk7rlEdrdKRdkG10SUfkpF2Rr1ROUySkUaSgZFq+9JRQ==</polyline>
+                <polyline>DPXCQ1h9S0XcARBEO5FLRZvHLkS2k0tFAqpLRN2JS0UJp2dEGXBLRRO9gkSkR0tFxUueROPzSkUq7rlEdrdKRd0G10SUfkpF2xr1ROUySkUaSgZFq+9JRQ==</polyline>
               </bottom-curve>
             </distortion-model>
           </image>
-          <file size="58924" mtime="1541235574"/>
-          <speckles size="2056" mtime="1541235574"/>
+          <file size="58420" mtime="1541546748"/>
+          <speckles size="1934" mtime="1541546748"/>
           <zones/>
           <fill-zones/>
         </output-params>
@@ -17804,8 +17812,8 @@
         </params>
         <output-params>
           <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="auto">
-            <size width="2622" height="3188"/>
-            <content-rect width="1838" x="392" y="59" height="2794"/>
+            <size width="2312" height="3188"/>
+            <content-rect width="1838" x="237" y="59" height="2794"/>
             <partial-xform>
               <m11>0.999951808959328</m11>
               <m12>-0.009817319337149617</m12>
@@ -17826,8 +17834,8 @@
               </bottom-curve>
             </distortion-model>
           </image>
-          <file size="84674" mtime="1541235920"/>
-          <speckles size="2052" mtime="1541235920"/>
+          <file size="84430" mtime="1541546738"/>
+          <speckles size="1930" mtime="1541546738"/>
           <zones/>
           <fill-zones/>
         </output-params>
@@ -17838,10 +17846,10 @@
         <params pictureShape="0" depthPerception="2" despeckleLevel="cautious" dewarpingMode="auto">
           <distortion-model>
             <top-curve>
-              <polyline>QZD+QeQ1YkGFx5hDjmZmQT0fIkQhqHlBDTadRJAipkGzwMFEgj2uQUE06UTZnrFBqJYaRUd0wEE=</polyline>
+              <polyline>rr25Q86opEFcjA1EPMiTQcRvLUTdSY9BDAVLRA6ukkGoOGdEWvufQb9zgkRLiLVBgsKdRB5p3kEkzKpEN0XpQbiPuUTga/BBo0DXRJ9i/0FSNeZEnNMGQsov9kQgmxBCgDMHRVIaIkI=</polyline>
             </top-curve>
             <bottom-curve>
-              <polyline>KQFeQmy99UTZehFEzqn2RJ4Qi0Qak/dEIxTNRKlX+EQUjAdFUlr5RA==</polyline>
+              <polyline>7gCvQ8VF9kQCQ0ZEog33RJ4Gm0QRwPdEse/SRNp/+EQsAgVFhTr5RA==</polyline>
             </bottom-curve>
           </distortion-model>
           <dpi vertical="300" horizontal="300"/>
@@ -17852,8 +17860,8 @@
         </params>
         <output-params>
           <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="auto">
-            <size width="2622" height="3188"/>
-            <content-rect width="2386" x="118" y="59" height="2708"/>
+            <size width="2312" height="3188"/>
+            <content-rect width="1780" x="266" y="59" height="2334"/>
             <partial-xform>
               <m11>0.9999280112000872</m11>
               <m12>-0.01199885067154968</m12>
@@ -17867,15 +17875,15 @@
             </color-params>
             <distortion-model>
               <top-curve>
-                <polyline>QZD+QeQ1YkGFx5hDjmZmQT0fIkQhqHlBDTadRJAipkGzwMFEgj2uQUE06UTZnrFBqJYaRUd0wEE=</polyline>
+                <polyline>rr25Q86opEFcjA1EPMiTQcRvLUTdSY9BDAVLRA6ukkGoOGdEWvufQb9zgkRLiLVBgsKdRB5p3kEkzKpEN0XpQbiPuUTga/BBo0DXRJ9i/0FSNeZEnNMGQsov9kQgmxBCgDMHRVIaIkI=</polyline>
               </top-curve>
               <bottom-curve>
-                <polyline>KQFeQmy99UTZehFEzqn2RJ4Qi0Qak/dEIxTNRKlX+EQUjAdFUlr5RA==</polyline>
+                <polyline>7gCvQ8VF9kQCQ0ZEog33RJ4Gm0QRwPdEse/SRNp/+EQsAgVFhTr5RA==</polyline>
               </bottom-curve>
             </distortion-model>
           </image>
-          <file size="90370" mtime="1541235926"/>
-          <speckles size="3656" mtime="1541235926"/>
+          <file size="75462" mtime="1541546700"/>
+          <speckles size="1944" mtime="1541546700"/>
           <zones/>
           <fill-zones/>
         </output-params>
