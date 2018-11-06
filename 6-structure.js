@@ -197,8 +197,9 @@ function readFileAndTryStructure(filePath) {
 		.then(trimValues);
 }
 
-glob('5-ocr-split/*.txt').then((matches) => Promise.all(
-	matches.map(readFileAndTryStructure)
+glob('5-ocr-split/*.txt')
+.then((matches) => Promise.all(
+	matches.sort().map(readFileAndTryStructure)
 ))
 .then((entries) => stringify(entries, {
 	header: true,
