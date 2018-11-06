@@ -1,11 +1,11 @@
-” .SSECRNAN UPRISING 1747 to 1749
-tecion(s)- Asia
-etion(s)- CHINA
-Actor(s)— SZECHUAN-CHINA
-Comitter(s)~  SZECHUAN-CHINA
-Lacation(s)~ CHINA
-Moce- Primarily Internal Magnitude- 24 OCombatants- 70000
-LAS— 0 Force- Ground Forces
-tssue(s)- Internal Tension Territory-Population
-ancome(s)-— Unsuccess. Committer
+- SECFWAN UPRISING 1747 to 1749
+wecion{s)- Asia
+wtion(s)- CHINA
+actor(s)- SZECHUAN-CHINA
+gomitter(s)- | SZECHUAN-CHINA
+Location(s) CHINA
+Mode~ Primarily Internal Magnitude- 24 Combatants- 70000
+chs- Q Force- Ground Forces
+rgsve(s)- Internal Tension Territory—Population
+ancome(s)- Unsuccess. Committer
 Source(s)- 1

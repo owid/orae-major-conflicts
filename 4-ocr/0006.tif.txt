@@ -1,57 +1,61 @@
-” .SSECRNAN UPRISING 1747 to 1749
+- SECFWAN UPRISING 1747 to 1749
 
-tecion(s)- Asia
+wecion{s)- Asia
 
-etion(s)- CHINA
+wtion(s)- CHINA
 
-Actor(s)— SZECHUAN-CHINA
-Comitter(s)~  SZECHUAN-CHINA
-Lacation(s)~ CHINA
+actor(s)- SZECHUAN-CHINA
+gomitter(s)- | SZECHUAN-CHINA
+Location(s) CHINA
 
-Moce- Primarily Internal Magnitude- 24 OCombatants- 70000
-LAS— 0 Force- Ground Forces
+Mode~ Primarily Internal Magnitude- 24 Combatants- 70000
+chs- Q Force- Ground Forces
 
-tssue(s)- Internal Tension Territory-Population
+rgsve(s)- Internal Tension Territory—Population
 
-ancome(s)-— Unsuccess. Committer
+ancome(s)- Unsuccess. Committer
 
 Source(s)- 1
 
-COEREEREEREKKAKEKEREKREKKEEURHEREEEKEREREEEUEEEEEEAMKKAERRERERERKARREEKK
-“3.842 OVER COLONIAL POSSESSIONS 1750 to 1756
+LEE AEREERIEKAKEKRERRERKEEREE KICKER EREREREREKEKRERREREEREREREEERREREREEEEE
+‘3.438 OVER COLONIAL POSSESSIONS 1750 to 1756
 
-yegion(s)- Americas Asia
+pegion(s)- Americas Asia
 
-werion(s)— FRANCE BRITAIN
+werion(s)- FRANCE BRITAIN
 
 UNITED STATES INDIA
 
 camitter(s)- FRANCE BRITAIN
 
-tocation(s)= UNITED STATES INDIA
+tocation{s)- | UNITED STATES INDIA
 
-Moje- Colonial Magnitude- 288 Coambatants- 40000
+Mode- Colonial Magnitude- 288 Combatants- 40000
 
 Deaths- QO Force- Naval Forces Ground Forces
 
 tssue(s)- Territory-Population Colonial
-Ostoome(s)- Campromise Conmitter
+dutoame(s)- Compromise Committer
 
 Source(s)- 1
-PHEKEKKKERKEKEREEEAERARREKCERKRAEEEKRERRREERREREEKEKKEEKKERKUERKEKKKRKKEK
+TERKTRAKKERERKEKEKEAAREEERAEUAKREEEEKRERRRERRERREEKEREKKHRKKKKK KKK KK
 
-./-D2QUNGAR MASSACRES IN CHINA 1755 to 1757
-fegion(s)- Asia
-Nation (s)— CHINA
+.-DZQUNGAR MASSACRES IN CHINA 1755 to 1757
+
+wegion(s)- Asia
+
+Nation(s)— CHINA
+
 Actor(s)- DZOUNGAR-CHINA
-Cormitter(s)- CHINA
-incation(s)— CHINA
-‘ode~ Primarily Internal Magnitude- 24 Combatants- 110000
 
-Tesucts) 600000 Force- Ground Forces
+Camitter(s)- CHINA
 
-“ssue(S)- Territory-Population Elite
+tocation(s)=- CHINA
 
-Oxtcome(s )~ Unsuccess. Conmitter
-Ce(s)— 1
+Mode~ Primarily Internal Magnitude- 24 Cambatants- 110000
+
+feaths- 600000 Force- Ground Forces
+Issue(s)- Territory-Population Elite
+Outcome(s)- Unsuccess. Conmitter
+Source(s)- 1
 

@@ -1,11 +1,11 @@
-“3.842 OVER COLONIAL POSSESSIONS 1750 to 1756
-yegion(s)- Americas Asia
-werion(s)— FRANCE BRITAIN
+‘3.438 OVER COLONIAL POSSESSIONS 1750 to 1756
+pegion(s)- Americas Asia
+werion(s)- FRANCE BRITAIN
 UNITED STATES INDIA
 camitter(s)- FRANCE BRITAIN
-tocation(s)= UNITED STATES INDIA
-Moje- Colonial Magnitude- 288 Coambatants- 40000
+tocation{s)- | UNITED STATES INDIA
+Mode- Colonial Magnitude- 288 Combatants- 40000
 Deaths- QO Force- Naval Forces Ground Forces
 tssue(s)- Territory-Population Colonial
-Ostoome(s)- Campromise Conmitter
+dutoame(s)- Compromise Committer
 Source(s)- 1
