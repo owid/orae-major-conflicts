@@ -90,35 +90,41 @@ function removeInvalidCharacters(content) {
 
 function extractStartLabels(filePath, content) {
 	const entry = { filePath, content };
-	let lastLabelIndex;
+	let availableLabels = startLabels;
+	let lastLabel;
 	content
 		.split('\n')
-		.forEach((line) => {
-			const [originalLabel, originalValue] = splitOnIndex(line, getLabelEndIndex(line));
-			const fuzzyMatches = fuzzyStartLabels.get(originalLabel);
-			const potentialLabels = fuzzyMatches && fuzzyMatches.map((x) => x[1]) || [];
-			const possibleLabels = startLabels.slice(
-				(lastLabelIndex || 0),
-				(lastLabelIndex || 0) + 4
-			);
-			let temp;
+		.map((line) => {
+			const [labelText, valueText] = splitOnIndex(line, getLabelEndIndex(line));
+			const fuzzyMatches = fuzzyStartLabels.get(labelText, null, 0.4);
+			const result = { line, labelText, valueText, fuzzyMatches };
 			// If the Levenshtein distance is very small, assume the label is correctly
-			// identified and reset `labelIndex`.
+			// identified.
 			if (fuzzyMatches && fuzzyMatches[0][0] > 0.75) {
 				const label = fuzzyMatches[0][1];
-				entry[label] = originalValue;
-				lastLabelIndex = startLabels.indexOf(label);
+				entry[label] = valueText;
+				availableLabels = availableLabels.filter((l) => l !== label);
+				result.label = label;
+				result.done = true;
 			}
-			else if (fuzzyMatches && (temp = find(potentialLabels, (l) => possibleLabels.includes(l)))) {
-				const label = temp;
-				entry[label] = originalValue;
-				lastLabelIndex = startLabels.indexOf(label);
-			}
-			else if (lastLabelIndex == null) {
-				entry["HEADER"] = appendLine(entry["HEADER"], line);
-			}
-			else {
-				entry[startLabels[lastLabelIndex]] = appendLine(entry[startLabels[lastLabelIndex]], line);
+			return result;
+		})
+		.forEach(({ line, valueText, fuzzyMatches, label, done }) => {
+			if (done) {
+				lastLabel = label;
+			} else {
+				const potentialLabels = fuzzyMatches && fuzzyMatches.map((x) => x[1]) || [];
+				const possibleLabels = potentialLabels.filter((l) => availableLabels.includes(l));
+				const likelyLabel = possibleLabels[0];
+				if (likelyLabel) {
+					entry[likelyLabel] = valueText;
+					lastLabel = likelyLabel;
+					availableLabels = availableLabels.filter((l) => l !== label);
+				}
+				else {
+					const label = lastLabel || "HEADER";
+					entry[label] = appendLine(entry[label], line);
+				}
 			}
 		});
 	return entry;
