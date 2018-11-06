@@ -38,6 +38,6 @@ convert -density 300 1-pdf/orae_merged.pdf 2-images/p%03d.png
 
 5. Extract structured data from each event file.
 
-```
-// TODO
+```sh
+./6-structure.js
 ```
