@@ -85,7 +85,7 @@ function appendWord(content, word) {
 }
 
 function removeInvalidCharacters(content) {
-	return content.replace(/[-–—]+/gi, '-')
+	return content.replace(/[-–—=]+/gi, '-');
 }
 
 function extractStartLabels(filePath, content) {
