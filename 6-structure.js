@@ -51,6 +51,19 @@ function splitOnIndex(string, index) {
 	];
 }
 
+function sum(array) {
+	let result = 0;
+	for (const value of array) {
+		result += value;
+	}
+	return result;
+}
+
+function count(array, predicate) {
+	if (typeof array === 'string') array = array.split('');
+	return sum(array.map((value) => predicate(value) ? 1 : 0))
+}
+
 function getLabelEndIndex(line) {
 	let i = 0;
 	while (
@@ -69,6 +82,10 @@ function appendLine(content, line) {
 
 function appendWord(content, word) {
 	return content ? content + ' ' + word : word;
+}
+
+function removeInvalidCharacters(content) {
+	return content.replace(/[-–—]+/gi, '-')
 }
 
 function extractStartLabels(filePath, content) {
@@ -133,6 +150,29 @@ function extractInnerLabels(entry) {
 	return entry;
 }
 
+function isDigit(c) {
+	return /^\d$/.test(c);
+}
+
+function isYear(word) {
+	return word.length >= 3 && word.length <= 5 && count(word, isDigit) >= 3;
+}
+
+function extractStartEnd(entry) {
+	if (entry.header) {
+		const years = [];
+		const words = entry.header.split(/\s+/).slice(2);
+		words.forEach((word) => {
+			if (isYear(word)) years.push(word);
+		});
+		if (years.length >= 2) {
+			entry["START"] = years[0];
+			entry["END"] = years[1];
+		}
+	}
+	return entry;
+}
+
 function trimValues(object) {
 	for (const key in object) {
 		if (typeof object[key] === 'string') {
@@ -144,8 +184,10 @@ function trimValues(object) {
 
 function readFileAndTryStructure(filePath) {
 	return fs.readFile(filePath, { encoding: 'utf-8' })
+		.then(removeInvalidCharacters)
 		.then((content) => extractStartLabels(filePath, content))
 		.then(extractInnerLabels)
+		.then(extractStartEnd)
 		.then(trimValues);
 }
 
@@ -157,6 +199,8 @@ glob('5-ocr-split/*.txt').then((matches) => Promise.all(
 	columns: [
 		'filePath',
 		'header',
+		'START',
+		'END',
 		'REGION(S)-',
 		'NATION(S)-',
 		'ACTOR(S)-',
