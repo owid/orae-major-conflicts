@@ -1,12 +1,10 @@
 #!/usr/local/bin/node
 
 const fs = require('fs').promises;
-const path = require('path');
 const util = require('util');
 
 const glob = require('fast-glob');
 const FuzzySet = require('fuzzyset.js');
-const { find } = require('lodash');
 const stringify = util.promisify(require('csv-stringify'));
 
 const startLabels = [
